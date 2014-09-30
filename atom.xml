@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://codergirlruby.github.io/atom.xml" rel="self"/>
   <link href="http://codergirlruby.github.io/"/>
-  <updated>2014-09-29T11:47:27-07:00</updated>
+  <updated>2014-09-30T12:57:08-07:00</updated>
   <id>http://codergirlruby.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,87 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why I Like Arch Linux]]></title>
+    <link href="http://codergirlruby.github.io/blog/2014/09/29/why-i-like-arch-linux/"/>
+    <updated>2014-09-29T12:03:53-07:00</updated>
+    <id>http://codergirlruby.github.io/blog/2014/09/29/why-i-like-arch-linux</id>
+    <content type="html"><![CDATA[<hr />
+
+<p>In my quest to learn more about Linux and become more comfortable with the command line I installed Arch Linux. It&rsquo;s very minimal so I have to really think about what is necessary for development and install it.
+command in the command line which is actually quite fun.</p>
+
+<p>It&rsquo;s great for development because everything is bleeding edge and updated manually.
+It has yaourt which is the arch linux user repository and a lot of people contribute to it.
+If I want the newest version of rails I can have it.</p>
+
+<p>I don&rsquo;t have to compile the newest version of Ruby I already have it.</p>
+
+<p>I prefer it much more over Ubuntu because basically Ubuntu has become too commercial and doesn&rsquo;t help you learn anything. It also isn&rsquo;t really for someone who appreciates Linux.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Deploying Rails App to Heroku]]></title>
+    <link href="http://codergirlruby.github.io/blog/2014/09/29/deploying-rails-app-to-heroku/"/>
+    <updated>2014-09-29T12:00:51-07:00</updated>
+    <id>http://codergirlruby.github.io/blog/2014/09/29/deploying-rails-app-to-heroku</id>
+    <content type="html"><![CDATA[<p>for my database.</p>
+
+<p>it was pretty easy to do</p>
+
+<p>I swapped out sqlite3 to pg in my gemfile and I also installed pg on my system to be able to run pg locally</p>
+
+<p>on arch installing is a breeze</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>pacman -S postgresql</span></code></pre></td></tr></table></div></figure>
+
+
+<p>I then created a db as well as a user for my app.
+create role myapp with createdb login password &lsquo;password1&rsquo;
+then i added the info to my db.yml which should look like this:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>development:
+</span><span class='line'>  adapter: postgresql
+</span><span class='line'>  encoding: unicode
+</span><span class='line'>  database: myapp_development
+</span><span class='line'>  pool: 5
+</span><span class='line'>  username: myapp
+</span><span class='line'>  password: password1
+</span><span class='line'>
+</span><span class='line'>test:
+</span><span class='line'>  adapter: postgresql
+</span><span class='line'>  encoding: unicode
+</span><span class='line'>  database: myapp_test
+</span><span class='line'>  pool: 5
+</span><span class='line'>  username: myapp
+</span><span class='line'>  password: password1</span></code></pre></td></tr></table></div></figure>
+
+
+<p>after setting my app up with pg everything worked fine until I deployed to heroku and then I ran into a problem with my apps routes not showing.</p>
+
+<p>but this did the trick</p>
+
+<p>heroku run rake db:migrate
+heroku restart</p>
+]]></content>
+  </entry>
   
 </feed>
