@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://codergirlruby.github.io/atom.xml" rel="self"/>
   <link href="http://codergirlruby.github.io/"/>
-  <updated>2014-09-30T13:03:41-07:00</updated>
+  <updated>2014-09-30T13:05:40-07:00</updated>
   <id>http://codergirlruby.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -20,8 +20,7 @@
     <id>http://codergirlruby.github.io/blog/2014/09/29/why-i-like-arch-linux</id>
     <content type="html"><![CDATA[<hr />
 
-<p>In my quest to learn more about Linux and become more comfortable with the command line I installed Arch Linux. It&rsquo;s very minimal so I have to really think about what is necessary for development and install it.
-command in the command line which is actually quite fun.</p>
+<p>In my quest to learn more about Linux and become more comfortable with the command line I installed Arch Linux. It&rsquo;s very minimal so I have to really think about what is necessary for development and install it.</p>
 
 <p>It&rsquo;s great for development because everything is bleeding edge and updated manually.
 It has yaourt which is the arch linux user repository and a lot of people contribute to it.
