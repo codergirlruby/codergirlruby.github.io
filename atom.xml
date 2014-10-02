@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://codergirlruby.github.io/atom.xml" rel="self"/>
   <link href="http://codergirlruby.github.io/"/>
-  <updated>2014-09-30T13:05:40-07:00</updated>
+  <updated>2014-10-02T14:32:17-07:00</updated>
   <id>http://codergirlruby.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Js Fiddle to Octopress]]></title>
+    <link href="http://codergirlruby.github.io/blog/2014/10/02/js-fiddle-to-octopress/"/>
+    <updated>2014-10-02T00:00:00-07:00</updated>
+    <id>http://codergirlruby.github.io/blog/2014/10/02/js-fiddle-to-octopress</id>
+    <content type="html"><![CDATA[<iframe style="width: 100%; height: 300px" frameborder="0" seamless="seamless" src="http://jsfiddle.net/4as35p63/embedded/js,resources,html,css,result/light/"></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Why I Like Arch Linux]]></title>
