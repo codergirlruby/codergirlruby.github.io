@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://codergirlruby.github.io/atom.xml" rel="self"/>
   <link href="http://codergirlruby.github.io/"/>
-  <updated>2014-10-02T15:12:36-07:00</updated>
+  <updated>2014-10-02T15:24:59-07:00</updated>
   <id>http://codergirlruby.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -22,6 +22,17 @@
 
 <iframe style="width: 100%; height: 300px" frameborder="0" seamless="seamless" src="http://jsfiddle.net/m9kuy3vd/embedded/js,resources,html,css,result/light/"></iframe>
 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rails Blog]]></title>
+    <link href="http://codergirlruby.github.io/blog/2014/10/02/rails-blog/"/>
+    <updated>2014-10-02T00:00:00-07:00</updated>
+    <id>http://codergirlruby.github.io/blog/2014/10/02/rails-blog</id>
+    <content type="html"><![CDATA[<p>Here is a link to a very simple rails blog I did which I mentioned in an earlier post. The tutorial is from <a href="http://guides.rubyonrails.org/getting_started.html.">http://guides.rubyonrails.org/getting_started.html.</a></p>
+
+<p><a href="http://serene-springs-2062.herokuapp.com/">http://serene-springs-2062.herokuapp.com/</a></p>
 ]]></content>
   </entry>
   
