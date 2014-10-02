@@ -11,6 +11,14 @@
   </url>
   
   <url>
+    <loc>http://codergirlruby.github.io/blog/2014/10/02/play-with-justin-bieber/</loc>
+    
+    <lastmod>2014-10-02T00:00:00-07:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://codergirlruby.github.io/blog/2014/10/02/js-fiddle-to-octopress/</loc>
     
     <lastmod>2014-10-02T00:00:00-07:00</lastmod>
@@ -37,14 +45,14 @@
   
   <url>
     <loc>http://codergirlruby.github.io/blog/archives/</loc>
-    <lastmod>2014-10-02T14:54:16-07:00</lastmod>
+    <lastmod>2014-10-02T15:11:43-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://codergirlruby.github.io/</loc>
-    <lastmod>2014-10-02T14:54:16-07:00</lastmod>
+    <lastmod>2014-10-02T15:11:43-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
