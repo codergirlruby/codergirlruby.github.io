@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://codergirlruby.github.io/atom.xml" rel="self"/>
   <link href="http://codergirlruby.github.io/"/>
-  <updated>2014-10-02T14:32:17-07:00</updated>
+  <updated>2014-10-02T14:41:20-07:00</updated>
   <id>http://codergirlruby.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,11 @@
     <link href="http://codergirlruby.github.io/blog/2014/10/02/js-fiddle-to-octopress/"/>
     <updated>2014-10-02T00:00:00-07:00</updated>
     <id>http://codergirlruby.github.io/blog/2014/10/02/js-fiddle-to-octopress</id>
-    <content type="html"><![CDATA[<iframe style="width: 100%; height: 300px" frameborder="0" seamless="seamless" src="http://jsfiddle.net/4as35p63/embedded/js,resources,html,css,result/light/"></iframe>
+    <content type="html"><![CDATA[<p>Much to my delight I found out how to embed a jsfiddle to my octopress. Unfortunately if you try to look for the instructions on how to do this on the Octopress website you are redirected to an error page. So instead I just googled it and found: <a href="http://brianarn.github.io/blog/2011/08/jsfiddle-plugin/">http://brianarn.github.io/blog/2011/08/jsfiddle-plugin/</a></p>
+
+<p>There&rsquo;s instructions for different ways in which you can edit the fiddle within your blog. The simplist way is to just insert <iframe style="width: 100%; height: 300px" frameborder="0" seamless="seamless" src="http://jsfiddle.net/fiddlename/embedded/js,resources,html,css,result/light/"></iframe> which is what I inputted below.</p>
+
+<iframe style="width: 100%; height: 300px" frameborder="0" seamless="seamless" src="http://jsfiddle.net/4as35p63/embedded/js,resources,html,css,result/light/"></iframe>
 
 ]]></content>
   </entry>
