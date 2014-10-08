@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://codergirlruby.github.io/atom.xml" rel="self"/>
   <link href="http://codergirlruby.github.io/"/>
-  <updated>2014-10-08T09:55:51-07:00</updated>
+  <updated>2014-10-08T12:22:19-07:00</updated>
   <id>http://codergirlruby.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -22,10 +22,13 @@
 
 <p>first he wrote some psuedo code which kinda got me stuck on because I thought I was suppose to edit it. The variable he used and the one I was suppose to use was the same word so I didn&rsquo;t understand that he wanted me to create a whole new function. Once we were done I thought to myself that&rsquo;s all you wanted me to do?</p>
 
-<p>The difference between writing a function and invoking a function
- Passing functions as arguments to other functions
- Iterating through an array or an object using a for or while loop
- Using if statements to let your code make decisions</p>
+<p>The difference between writing a function and invoking a function</p>
+
+<p> Passing functions as arguments to other functions</p>
+
+<p> Iterating through an array or an object using a for or while loop</p>
+
+<p> Using if statements to let your code make decisions</p>
 
 <p> This is what I was told to do in the e-mail and I can do all of these things. If Hack reactor is suppose to be so good at preparing you to become a software engineer why are students coming back to build their portfolio? I&rsquo;m actually glad it didn&rsquo;t work out because I am not  paying $17,000 to come back because I couldn&rsquo;t get a job.</p>
 
