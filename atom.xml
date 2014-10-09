@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://codergirlruby.github.io/atom.xml" rel="self"/>
   <link href="http://codergirlruby.github.io/"/>
-  <updated>2014-10-08T22:28:58-07:00</updated>
+  <updated>2014-10-08T22:31:18-07:00</updated>
   <id>http://codergirlruby.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -40,29 +40,6 @@ Travis CI — Continuous integration platform for open source and private projec
 than sublime. It is also free so you don&rsquo;t have that annoying window popping up asking you to
 purchase it. I will have to go into more detail about it later since I am still getting use to it but I have definately
 gotten rid of sublime in favor over Atom.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Bootcamp]]></title>
-    <link href="http://codergirlruby.github.io/blog/2014/10/04/bootcamp/"/>
-    <updated>2014-10-04T00:00:00-07:00</updated>
-    <id>http://codergirlruby.github.io/blog/2014/10/04/bootcamp</id>
-    <content type="html"><![CDATA[<p>I had my HackReactor interview today and I really felt like my student instructor did not explain things well. I also don&rsquo;t like that my admissions was based on an interview with a returning student and not a trained instructor. I felt like he could have told me to declare a function and have if it do some shit would have been better instructions.</p>
-
-<p>first he wrote some psuedo code which kinda got me stuck on because I thought I was suppose to edit it. The variable he used and the one I was suppose to use was the same word so I didn&rsquo;t understand that he wanted me to create a whole new function. Once we were done I thought to myself that&rsquo;s all you wanted me to do?</p>
-
-<p>The difference between writing a function and invoking a function</p>
-
-<p> Passing functions as arguments to other functions</p>
-
-<p> Iterating through an array or an object using a for or while loop</p>
-
-<p> Using if statements to let your code make decisions</p>
-
-<p> This is what I was told to do in the e-mail and I can do all of these things. If Hack reactor is suppose to be so good at preparing you to become a software engineer why are students coming back to build their portfolio?</p>
-
-<p> Interesting article <a href="http://www.fastcompany.com/3023456/become-an-ios-developer-in-8-weeks-the-truth-about-hack-schools">http://www.fastcompany.com/3023456/become-an-ios-developer-in-8-weeks-the-truth-about-hack-schools</a></p>
 ]]></content>
   </entry>
   

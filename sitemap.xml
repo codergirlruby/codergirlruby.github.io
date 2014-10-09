@@ -11,14 +11,6 @@
   </url>
   
   <url>
-    <loc>http://codergirlruby.github.io/blog/2014/10/04/bootcamp/</loc>
-    
-    <lastmod>2014-10-04T00:00:00-07:00</lastmod>
-    
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
     <loc>http://codergirlruby.github.io/blog/2014/10/02/rock-paper-sissors/</loc>
     
     <lastmod>2014-10-02T00:00:00-07:00</lastmod>
@@ -69,14 +61,14 @@
   
   <url>
     <loc>http://codergirlruby.github.io/blog/archives/</loc>
-    <lastmod>2014-10-08T22:28:58-07:00</lastmod>
+    <lastmod>2014-10-08T22:31:18-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://codergirlruby.github.io/</loc>
-    <lastmod>2014-10-08T22:28:58-07:00</lastmod>
+    <lastmod>2014-10-08T22:31:18-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
