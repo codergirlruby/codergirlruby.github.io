@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://codergirlruby.github.io/atom.xml" rel="self"/>
   <link href="http://codergirlruby.github.io/"/>
-  <updated>2014-10-08T22:31:18-07:00</updated>
+  <updated>2014-10-14T15:18:59-07:00</updated>
   <id>http://codergirlruby.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bootcamp review]]></title>
+    <link href="http://codergirlruby.github.io/blog/2014/10/14/bootcamp-review/"/>
+    <updated>2014-10-14T15:17:06-07:00</updated>
+    <id>http://codergirlruby.github.io/blog/2014/10/14/bootcamp-review</id>
+    <content type="html"><![CDATA[<p>I recently had an interview with HackReactor and I have to say it was very disappointing. I sat down with a &ldquo;resident&rdquo; to do a paired programming code challange and his communication wasn&rsquo;t very clear. He was very awkward and stilted in his speech.</p>
+
+<p>The challange took longer than it should have but I really don&rsquo;t believe it to completely be my lack of experience. I expressed this to HackReactor in an E-mail and I received the expected PR wall of text.</p>
+
+<p>In retrospect I&rsquo;m glad I didn&rsquo;t waste my time and money attending HackReactor. I don&rsquo;t think any of these bootcamps can deliver what they promise and aren&rsquo;t for real hackers. If you go to the HackReactor website and look at the students who did get jobs,  its all from small start ups or non impressive companies. No one works for Twitter, Instagram, FB, Google, Mozilla, or any of  the brag worthy sites.</p>
+
+<p>Also a lot of the students end up working for these bootcamps they attend which leads me to believe they are not getting job offers. Another reason I think they are not getting job offers is because the guy who was interviewing me is apart of the residency program. He was very excited about this because as he put it &ldquo;Now I can add more projects to my portfolio&rdquo;.</p>
+
+<p>Two things popped into my head when he said this. One was, what? Can this guy not build his own project? The second thing was, I thought HackReactor was suppose to get you job ready, why does he need to come back to build his portfolio? This guys JavaScript syntax may be flawless but, he certainly cannot build anything without help from HackReactor. Why join the last 6 weeks of the program (the work on your own project part)  of the current cohort to do something you can do by yourself. He obviously doesn&rsquo;t have the motivation and/or technical skill.</p>
+
+<p> He also kinda changed the subject quickly when I asked which companies come to look at the students. He said Microsoft (and didn&rsquo;t mention anymore) then kinda trailed off.  No one went to HackReactor and got a job at Microsoft because of it.  I&rsquo;m pretty sure Hack Reactor would promote that like a MoFo. I  also definatly do not want to attend some &ldquo;school&rdquo; where I am learning from a student who has no field experience.</p>
+
+<p>I think  the best thing I can do for myself is to set myself apart from these bootcamp going folk by not only learning JS and other forgiving languages but to also learn low level languages such as C++. The old school way of contributing to open source projects, forums and developing web/phone apps on my own seems to be the best way. It shows initiative and genuine interest.</p>
+
+<p>Pros of bootcamps:
+brings you up to speed if you already have some experience.
+You can buy your way into a network.
+Full imersion.
+Good to get out of the house I guess.</p>
+
+<p>Cons of bootcamps:
+You get conned out of a lot of money to &ldquo;learn&rdquo; to &ldquo;build things&rdquo; you could have done on your own.
+You&rsquo;re learning a framework that won&rsquo;t be popular after a few years.
+Teacher to student ratio is horrible and you won&rsquo;t get any one on one time.
+Teachers are often students that graduated and hired to be TAs.
+Everything is very put together and not organized, teachers have no experience teaching anybody at all.</p>
+
+<p> Interesting article <a href="http://www.fastcompany.com/3023456/become-an-ios-developer-in-8-weeks-the-truth-about-hack-schools">http://www.fastcompany.com/3023456/become-an-ios-developer-in-8-weeks-the-truth-about-hack-schools</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Atom over Sublime]]></title>
